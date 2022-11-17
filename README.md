@@ -1,5 +1,5 @@
 # Ritschratsch
- A framework for arduino to easily build sound machines from DC motors, servo motors, WS2812b led strips and trash.
+ A framework for arduino to easily build sound machines from DC and servo motors, WS2812b led strips and trash. A lot of tape, zip ties and a glue gun is recommended.
 
 
 ![pinout](img/rira_pinout.png)
@@ -9,8 +9,12 @@
 • FastLED  
 • Servo
 
+### CH340 driver for cheap arduinos
+[MAC](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)  
+[WIN](http://www.wch.cn/download/CH341SER_ZIP.html)
+
 ### resources
-[how to use a breadboard](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard)  
+[how to use a breadboard](https://computers.tutsplus.com/tutorials/how-to-use-a-breadboard-and-build-a-led-circuit--mac-54746)  
 [what is an arduino?](https://learn.sparkfun.com/tutorials/what-is-an-arduino/all)  
 [arduino download](https://www.arduino.cc/en/software)  
 [arduino reference](https://www.arduino.cc/reference/en/)  
