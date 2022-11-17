@@ -3,3 +3,8 @@
 
 
 ![pinout](img/rira_pinout.png)
+
+
+### required additional libraries
+• FastLED  
+• Servo
