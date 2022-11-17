@@ -20,7 +20,8 @@ MOTOR 1 B o–––––| OUT 2                               OUT 3 |–––
                     1   N            I   I   I   I   I   I
                     2   D            N   N   N   N   N   N
                                      D   D   D   D   D   D
-                                     3   2   4   7   8   9
+                                     3   2   4   9   1   1
+                                                     0   1
 
 With the L298D h-bridge module the speed and direction of two DC motors can be controlled.
 Each motor needs three connections from the Arduino, one for controlling the speed ( going to ENA resp. ENB)
