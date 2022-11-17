@@ -4,7 +4,7 @@
 
 ![pinout](img/rira_pinout.png)
 
-
+![BDX](img/BDX.png)
 ### required additional libraries
 • FastLED  
 • Servo
