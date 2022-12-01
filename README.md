@@ -8,14 +8,12 @@ H-bridge, a Neopixel style WS2812B LED strip and some general purpose outputs e.
 Depending on the kind of output informations like ```interval duration``` ```motor speed``` ```target angle```etc. have to be provided, you can find more info about each output and how to use it in the example sketch.
 
 
-#### predefined pinout for arduino nano
-
 ![pinout](img/rira_pinout.png)
 
 
-#### example circuit for a (darlington) transistor
+### example circuit for a (darlington) transistor
 ![BDX](img/BDX.png)
-### required additional libraries
+### required  libraries
 • FastLED  
 • Servo
 
