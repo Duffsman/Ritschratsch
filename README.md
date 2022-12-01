@@ -1,6 +1,13 @@
 # Ritschratsch
  A framework for arduino to easily build sound machines from DC and servo motors, WS2812b led strips and trash. A lot of tape, zip ties and a glue gun is recommended.
 
+### How to use? 
+Ritschratsch can be used with any ATMega328 based microcontroller, an arduino nano is recommended though.
+There are predefined outputs for servo motors, DC motors controlled through a L298N
+H-bridge, a Neopixel style WS2812B LED strip and some general purpose outputs e.g. for single LED's, transistors or relays. All outputs (beside the one for the LED strip) can be programmed in a keyframe-ish way, which makes it quite easy to create even more complex patterns and behaviour.
+Depending on the kind of output informations like ```interval duration``` ```motor speed``` ```target angle```etc. have to be provided, you can find more info about each output and how to use it in the example sketch.
+
+
 
 ![pinout](img/rira_pinout.png)
 

@@ -39,6 +39,7 @@
 |- set angle 1 -|                           |-set angle 2 -|
 |------------------interval 1 --------------|------------------interval 2 --------------| ...
 
+interval duration, target angle
 */
 
 const uint16_t table_servo_1[] PROGMEM = {
